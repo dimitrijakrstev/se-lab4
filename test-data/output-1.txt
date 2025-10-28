@@ -1,0 +1,3 @@
+SUCCESS   # GT4500 creation
+SUCCESS   # first SINGLE fires primary
+SUCCESS   # second SINGLE fires secondary
